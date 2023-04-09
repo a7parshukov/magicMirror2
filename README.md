@@ -4,4 +4,4 @@
 1. Сделать бэкап
 
 ## Инструкция
-Основная ссылка: [MagicMirror2] [https://magicmirror.builders/]
+Основная ссылка: [MagicMirror2] (https://magicmirror.builders/)
