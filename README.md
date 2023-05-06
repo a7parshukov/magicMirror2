@@ -2,10 +2,6 @@
 
 Используемое железо: RPI 3B+, SD на 8 Гб.
 
-
-## TODO:
-1. Сделать бэкап
-
 ## Инструкция
 Основная ссылка: [MagicMirror2](https://magicmirror.builders/)
 
