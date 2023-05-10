@@ -90,7 +90,7 @@ cp config/config.js.sample config/config.js
 npm run start
 ```
 
-### Настроить автоастарт MagicMirror при запуске RPI
+### Настроить автостарт MagicMirror при запуске RPI
 ```console
 sudo npm install -g pm2
 pm2 startup
